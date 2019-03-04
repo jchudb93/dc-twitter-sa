@@ -1,7 +1,7 @@
 dc-twitter-sa
 ==============================
 
-A short description of the project.
+Twitter sentiment analysis
 
 Project Organization
 ------------
